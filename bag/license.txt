@@ -1,0 +1,11 @@
+Model Information:
+* title:	Armpit City
+* source:	https://sketchfab.com/3d-models/armpit-city-960a3a67c1ee437c8e758287185b2396
+* author:	WillBrapLane (https://sketchfab.com/Will_Lane)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Armpit City" (https://sketchfab.com/3d-models/armpit-city-960a3a67c1ee437c8e758287185b2396) by WillBrapLane (https://sketchfab.com/Will_Lane) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

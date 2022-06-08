@@ -1,0 +1,11 @@
+Model Information:
+* title:	cyber Ak rifle
+* source:	https://sketchfab.com/3d-models/cyber-ak-rifle-b52f986906af416eb7064bdb9365544e
+* author:	cgmreza (https://sketchfab.com/cgmreza)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "cyber Ak rifle" (https://sketchfab.com/3d-models/cyber-ak-rifle-b52f986906af416eb7064bdb9365544e) by cgmreza (https://sketchfab.com/cgmreza) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
